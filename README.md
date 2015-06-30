@@ -1,4 +1,3 @@
-# BTService
 BTService - open source Delphi library implementing the BitTorrent protocol
 ================================================================
 
